@@ -72,7 +72,7 @@ else:
 The astrological data within this database was originally compiled by:
 
 * **Author:** Mr. Kanak Bosmia (Editor, KP-Ezine)
-* **Source:** [*KP Navaratnamala - Series 1* (Published May 2009)](https://ia601303.us.archive.org/35/items/kp-readers/kp%20navratnamala%201-3.pdf)
+* **Source:** [KP Navaratnamala - Series 1 (Published May 2009)](https://ia601303.us.archive.org/35/items/kp-readers/kp%20navratnamala%201-3.pdf)
 
 **All credit for the primary research, compilation, and astrological expertise belongs to Mr. Bosmia.** 
 
